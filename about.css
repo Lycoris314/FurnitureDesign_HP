@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+#main_footer{
+    top:90px;
+    height: calc(100vh - 120px);
+}
+
+main{
+    max-width:600px;
+}
+
+main>p:first-child{
+    line-height: 17pt;
+}
+
+main>p{
+    padding-bottom:25px;
+    font-size: 14px;
+    line-height: 26pt;
+}
